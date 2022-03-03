@@ -1,6 +1,6 @@
 ## Sub HP Goals for All Games
 
-Our vision is to find the SubHP goal for all currently playable games in the world. We are starting with a moderate list for now.
+Our vision is to find the SubHP goal for all currently playable games in the world. We are starting with a moderate list for now. Enjoy!
 
 ### Ninja Gaiden (NES)
 
@@ -15,6 +15,10 @@ Our vision is to find the SubHP goal for all currently playable games in the wor
 
 ![image](https://user-images.githubusercontent.com/202998/156474458-3d21b9ca-d91a-487c-864a-23f0c4422009.png)
 
-Super Dodge Ball (NES)
+### Super Dodge Ball (NES)
 
 ![image](https://user-images.githubusercontent.com/202998/156474505-df3f7bec-ec5a-4533-8e2a-a7594d9c069d.png)
+
+### Contact
+
+https://twitter.com/oopskapootz
