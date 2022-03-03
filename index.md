@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Sub HP Goals for All Games
 
-You can use the [editor on GitHub](https://github.com/nictuku/subhp.art/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Our vision is to find the SubHP goal for all currently playable games in the world. We are starting with a moderate list for now.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ninja Gaiden (NES)
 
-### Markdown
+![image](https://user-images.githubusercontent.com/202998/156473461-8b4a23dc-5787-4e2d-a11b-34806194ae2e.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Mega Man 2 (NES)
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/202998/156473376-ed2aae49-bfde-4f7e-bf7c-b545d168d34e.png)
 
-- Bulleted
-- List
+### Mario Kart 8 Deluxe (Switch)
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/202998/156474458-3d21b9ca-d91a-487c-864a-23f0c4422009.png)
 
-**Bold** and _Italic_ and `Code` text
+Super Dodge Ball (NES)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nictuku/subhp.art/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/202998/156474505-df3f7bec-ec5a-4533-8e2a-a7594d9c069d.png)
