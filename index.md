@@ -1,5 +1,8 @@
 ## Sub HP Goals for All Games
 
+![image](https://user-images.githubusercontent.com/202998/156475405-22b05c4b-8df0-4fa8-b646-26a93ce0ce8b.png)
+
+
 Our vision is to find the SubHP goal for all currently playable games in the world. We are starting with a moderate list for now. Enjoy!
 
 ### Ninja Gaiden (NES)
