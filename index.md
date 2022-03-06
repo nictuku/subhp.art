@@ -14,6 +14,11 @@ Our vision is to find the SubHP goal for all currently playable games in the wor
 
 ![image](https://user-images.githubusercontent.com/202998/156473376-ed2aae49-bfde-4f7e-bf7c-b545d168d34e.png)
 
+### Mega Man 11 (Switch)
+
+![image](https://user-images.githubusercontent.com/202998/156945064-b4faa862-1a89-46f9-81f8-7f98504e5d01.png)
+
+
 ### Mario Kart 8 Deluxe (Switch)
 
 ![image](https://user-images.githubusercontent.com/202998/156474458-3d21b9ca-d91a-487c-864a-23f0c4422009.png)
