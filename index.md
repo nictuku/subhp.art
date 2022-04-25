@@ -5,6 +5,11 @@
 
 Our vision is to find the SubHP goal for all currently playable games in the world. We are starting with a moderate list for now. Enjoy!
 
+### The Legend of Zelda (NES)
+
+<img width="1324" alt="image" src="https://user-images.githubusercontent.com/202998/165177190-c79f31c9-396e-4b37-87e5-e98843a0643d.png">
+
+
 ### Ninja Gaiden (NES)
 
 ![image](https://user-images.githubusercontent.com/202998/156473461-8b4a23dc-5787-4e2d-a11b-34806194ae2e.png)
